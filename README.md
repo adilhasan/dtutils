@@ -12,8 +12,7 @@ msiSha1Data(infile, option,               Microservice to compute the
 sha1)                                     SHA1 checksum for an iRODS data
                                           object and return it as a string.
                                           Currently, the only option is 
-                                          replNum=nnn (ie the 
-                                          replica number)
+                                          replNum=nnn (ie the replica number)
 ---------------------------------------------------------------------------
 
 
