@@ -1,0 +1,8 @@
+Name:		dtUtils
+Brief:		Utility microservices
+Description:	This module contains additional microservices that may be useful.
+Dependencies:
+Enabled:	yes
+Creator:	Adil Hasan; DataTailor Ltd
+Created:	August 2013
+License:	BSD
