@@ -12,7 +12,13 @@ msiSha1Data(infile, option,               Microservice to compute the
 sha1)                                     SHA1 checksum for an iRODS data
                                           object and return it as a string.
                                           Currently, the only option is 
-                                          replNum=nnn (ie the replica number)
+                                          replNum=nnn (ie the replica 
+                                          number)
+
+msiSEMail(from, to, subject, body)        Microservice to send emails. The
+                                          sender needs to be specified and
+                                          the recipients can be a comma 
+                                          separated list.
 ---------------------------------------------------------------------------
 
 
